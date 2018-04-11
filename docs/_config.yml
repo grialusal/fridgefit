@@ -18,10 +18,10 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Página oficial del dispositivo que cambiará sus hábitos alimenticios para siempre.
 baseurl: "/fridgefit" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://grialusal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  grialusal
-
+root: /
 # Build settings
 markdown: kramdown
 theme: minima
