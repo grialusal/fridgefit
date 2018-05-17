@@ -8,5 +8,8 @@ Silvia, Laura y Miguel trabajaron en el informe sobre el estudio de la alimentac
 
 También trabajaron el diseño de la portada del informe para una buena presentación de la marca.
 
-<center![Logo fridgefit]({{"/assets/portadaInforme.png" | absolute_url}})/>
+
+<center><img src="/assets/portadaInforme.png"></center>
+
+![Logo fridgefit]({{"/assets/portadaInforme.png" | absolute_url}})
 
