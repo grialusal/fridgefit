@@ -9,5 +9,5 @@ Silvia, Laura y Miguel trabajaron en el informe sobre el estudio de la alimentac
 También trabajaron el diseño de la portada del informe para una buena presentación de la marca.
 
 
-<center><img src="../assets/portadaInforme.png"></center>
+<center><img src="../assets/portadaInforme.png"/></center>
 
