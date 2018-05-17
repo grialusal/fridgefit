@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Avances¡"
+title:  "Avances!"
 date:   2018-05-9 17:00:00 +0500
 categories: jekyll update
 ---
