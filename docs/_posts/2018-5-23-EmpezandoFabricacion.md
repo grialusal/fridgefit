@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reunión para el diseño de la nevera."
+title:  "Primera fase de fabricación."
 date:   2018-05-23 14:00:00 +1400
 categories: jekyll update
 ---
